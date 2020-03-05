@@ -21,4 +21,8 @@
    
    ##IMAGES
    1[ANNAMACHARYA]
-   https://en.wikipedia.org/wiki/File:Annamacharya.jpg
+   
+https://www.google.com/search?q=annamacharya+institute+of+technology+and+sciences+tirupati+statue&rlz=1C1CHBD_enIN863IN863&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie6uTuwYLoAhU-zzgGHcWzBvEQ_AUoAnoECA8QBA&biw=1366&bih=608#imgrc=_-ejq14JU71Q-M
+
+   ## link
+   [GITHUB
