@@ -20,9 +20,8 @@
    2. DRUM STICK 2
    
    ##IMAGES
-   1[ANNAMACHARYA]
+   1[ANNAMACHARYA](https://collegedunia.com/college/28390-annamacharya-institute-of-technology-and-sciences-aits-tirupati)
    
-https://www.google.com/search?q=annamacharya+institute+of+technology+and+sciences+tirupati+statue&rlz=1C1CHBD_enIN863IN863&source=lnms&tbm=isch&sa=X&ved=2ahUKEwie6uTuwYLoAhU-zzgGHcWzBvEQ_AUoAnoECA8QBA&biw=1366&bih=608#imgrc=_-ejq14JU71Q-M
 
    ## link
    [GITHUB
